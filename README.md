@@ -6,6 +6,4 @@ In this project, I visualize my personal running/walking data from the Apple Hea
 - Which days of the week was I the most active on?
 - Am I less active during certain months in the year?
 
-## Summary of Results
-
-From my work below, I confirmed that I walked between 2 and 5 miles daily, except during the winter months. I was much less active November - March, probably due to colder weather, except when I was travelling. Finally, I was most active on Tuesdays and Saturdays according to this data, but it should be noted that the data excludes any activity performed when I wasn't carrying my phone.
+Due to limitations with Github, the plots aren't displayed in the notebook above. See [here](https://nbviewer.jupyter.org/github/jchipko/running/blob/master/Running%20Analysis.ipynb) instead to view the plots.
